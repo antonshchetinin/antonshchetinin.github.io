@@ -1,0 +1,31 @@
+@media (max-width:900px) {
+
+.bg-img {
+    padding: 0;
+    margin: 0;
+}
+
+
+.navbar {
+  
+    flex-direction: column;
+        justify-content: center;
+    align-self: center;
+}
+
+    .navbar ul {
+    
+        font-size: 70px;
+        flex-direction: column;
+        justify-content: center;
+    align-self: center;
+    }
+
+    .container {
+        border: none;
+    }
+
+    .domain__bg {
+        
+    }
+}
